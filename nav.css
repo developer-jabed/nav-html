@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(25, 170, 170, 0.712);
+}
+nav > ul{
+    display: flex;
+   
+}
+nav li{
+    color: rgb(68, 218, 245);
+    list-style: none;
+    margin-right: 10px;
+    padding: 5px;
+    
+}
+nav li :hover{
+         background-color: rgb(33, 33, 255);
+}
+
+nav li a{
+    text-decoration: none;
+
+}
